@@ -1117,6 +1117,3 @@
                     <span>Nghe podcast</span>
                 </div>
                 
-                <div class="interest-item">
-                    <i class="fas fa-language"></i>
-                    <span>Luy
