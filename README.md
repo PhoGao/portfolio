@@ -824,7 +824,7 @@
             <h2>Kinh nghiệm làm việc</h2>
             
             <div class="exp-item">
-                <div class="exp-date">09/2023 - 02/2025</div>
+                <div class="exp-date">09/2023 - 04/2025</div>
                 <div class="exp-title">DISTRIBUTION CENTER SUPERVISOR</div>
                 <div class="exp-company">Công ty SEEDCOM LOGISTICS</div>
                 <div class="exp-desc">
@@ -843,7 +843,7 @@
             </div>
             
             <div class="exp-item">
-                <div class="exp-date">01/2022 - 05/2023</div>
+                <div class="exp-date">01/2022 - 06/2023</div>
                 <div class="exp-title">WAREHOUSE SUPERVISOR</div>
                 <div class="exp-company">Công ty KOINA logistics</div>
                 <div class="exp-desc">
@@ -898,7 +898,7 @@
                     <p>Dự án chuyển đổi hệ thống kho nóng sang kho mát để đáp ứng nhu cầu bảo quản hàng hóa ở điều kiện nhiệt độ thấp. Quản lý toàn bộ quá trình từ lên kế hoạch, thiết kế, thi công đến đưa vào vận hành.</p>
                     <p><strong>Thành tựu:</strong></p>
                     <ul>
-                        <li>Hoàn thành dự án đúng thời hạn trong vòng 3 tháng</li>
+                        <li>Hoàn thành dự án đúng thời hạn trong vòng 1 tháng</li>
                         <li>Tối ưu chi phí vận hành giảm 15% so với dự toán ban đầu</li>
                         <li>Duy trì nhiệt độ ổn định trong phạm vi yêu cầu</li>
                     </ul>
@@ -919,7 +919,7 @@
                     <p><strong>Thành tựu:</strong></p>
                     <ul>
                         <li>Xây dựng được hệ thống báo cáo tự động cập nhật theo thời gian thực</li>
-                        <li>Tăng năng suất kho 20% sau 3 tháng triển khai</li>
+                        <li>Tăng năng suất kho 20%</li>
                         <li>Giảm thời gian báo cáo từ 1 ngày xuống còn 1 giờ</li>
                     </ul>
                 </div>
