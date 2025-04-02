@@ -794,7 +794,7 @@
         <section id="about" class="container">
             <h2>Giới thiệu</h2>
             <p class="about-text">
-                Tôi là Huỳnh Gia Bảo, chuyên viên trong lĩnh vực Logistics và Quản lý chuỗi cung ứng với hơn 5 năm kinh nghiệm. Tôi đã từng quản lý và vận hành nhiều kho hàng, triển khai các dự án cải tiến quy trình và hệ thống, cũng như phát triển các giải pháp logistics hiệu quả. Hiện nay, tôi đang tìm kiếm cơ hội phát triển trong lĩnh vực xuất nhập khẩu và quản trị chuỗi cung ứng.
+                Tôi là Huỳnh Gia Bảo, chuyên viên trong lĩnh vực Logistics và Quản lý chuỗi cung ứng với hơn 4 năm kinh nghiệm. Tôi đã từng quản lý và vận hành nhiều kho hàng, triển khai các dự án cải tiến quy trình và hệ thống, cũng như phát triển các giải pháp logistics hiệu quả. Hiện nay, tôi đang tìm kiếm cơ hội phát triển trong lĩnh vực xuất nhập khẩu và quản trị chuỗi cung ứng.
             </p>
             
             <div class="objectives">
